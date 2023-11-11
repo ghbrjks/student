@@ -1,6 +1,7 @@
- #include "std.h"
+#include "std.h"
 #include <iostream>
 using namespace std;
+//опнцпюллю ъбкъеряъ свеамни
 
 int main(){
     int a, b;
