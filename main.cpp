@@ -8,5 +8,6 @@ int main(){
     cin>> a;
     cout<<"Insert second number: ";
     cin>> b;
-    cout<<"Sun of numbers: "<<a+b;
+    cout<<"Sum of numbers: "<<a+b<<endl;
+    cout<<"Substraction of numbers: "<<a-b<<endl;
 }
