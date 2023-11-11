@@ -11,4 +11,6 @@ int main(){
     cin>> b;
     cout<<"Sum of numbers: "<<a+b<<endl;
     cout<<"Substraction of numbers: "<<a-b<<endl;
+    cout<<"Multiply of numbers: "<<a*b<<endl;
+    cout<<"Division of numbers: "<<a/b<<endl;
 }
